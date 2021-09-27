@@ -12,14 +12,14 @@
             <div class="row">
                 <div class="col-8 offset-4">
                     <h2>
-                        <center>Agregar tarea
+                        <center>Agregar Criterio
                         </center>
                     </h2>
                 </div>
             </div>
 
             <div class="form-group row">
-                <label class="col-form-label col-4">Nombre</label>
+                <label class="col-form-label col-4">Criterio</label>
                 <div class="col-8">
                     <input type="text" class="form-control" name="nombre" required="required">
                 </div>
